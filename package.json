@@ -1,0 +1,20 @@
+{
+  "name": "@finite-logi/cache-sense",
+  "version": "1.0.0",
+  "description": "FINITE LOGIC: Cache Sense - Focus: Advanced Caching Strategy",
+  "main": "src/PredictiveCache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akshayadeveloper/finite-logic-cache-sense.git"
+  },
+  "keywords": ["finite-logic","Predictive cache","Advanced Caching Strategy","reactive cache policies","LRU, LFU","machine-learning-inspired algorithm","frequency","recency","access volatility","databases","APIs"," performance and cost advantage","high-traffic applications"],
+  "author": "AKshaya Selvalkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshayadeveloper/finite-logic-cache-sense/issues"
+  },
+  "homepage": "https://github.com/Akshayadeveloper/finite-logic-cache-sense#readme"
+}
